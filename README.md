@@ -1,5 +1,8 @@
-# Nairobi Real Estate Market Analysis: Web Scraping, Data Cleaning, and Interactive Tableau Dashboard
+# Nairobi Real Estate Market Analysis
 
+An end-to-end data analytics project that explores Nairobi's real estate market through web scraping, data cleaning, exploratory analysis, and interactive Tableau dashboards. The project uncovers pricing trends, location-based market dynamics, and property category performance to support data-driven real estate investment decisions.
+
+**Tools Used:** Python | BeautifulSoup | Pandas | Excel | Tableau Public
 ## Project Overview
 
 The real estate market generates vast amounts of data that can provide valuable insights for investors, property developers, real estate agencies, and home buyers. This project demonstrates an end-to-end data analytics workflow by collecting, cleaning, analyzing, and visualizing real estate listing data from Property24 Kenya.
