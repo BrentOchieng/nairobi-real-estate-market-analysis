@@ -150,7 +150,7 @@ This analysis demonstrates how data analytics can support:
 
 ## Interactive Dashboard
 
-**Tableau Public Dashboard:** *https://public.tableau.com/authoring/property24_analysis/Dashboard1#2*
+**Tableau Public Dashboard:** *https://public.tableau.com/app/profile/brent.ochieng/viz/property24_analysis/Dashboard1*
 
 ---
 
